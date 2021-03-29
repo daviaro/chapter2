@@ -1,5 +1,1 @@
-# chapter2 
-# chapter2 
-# chapter2 
-# chapter2 
-# chapter2 
+ # Examples GO 
